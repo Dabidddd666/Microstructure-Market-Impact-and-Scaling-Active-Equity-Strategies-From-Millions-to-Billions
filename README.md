@@ -1,4 +1,4 @@
-# DST Squad Q4 Quantitative Trading System
+# Quantitative Trading System
 
 A comprehensive quantitative trading framework implementing advanced signal generation, backtesting, and portfolio optimization techniques for scalable trading strategies.
 
